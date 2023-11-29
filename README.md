@@ -1,8 +1,8 @@
-# Fast-React-Pizza
+# Fast-React-Pizza-CO.
 
 ![Fast-React-Pizza](public/Order-page.png)
 
-Fast-React-Pizza is a Redux project where people can order pizza without authentication.
+Fast React Pizza Co. is a Redux project where people can order pizza without authentication.
 
 You can view the project live here:
 [Fast-React-Pizza](https://fast-pizza-co-react.netlify.app/)
@@ -38,7 +38,7 @@ You can view the project live here:
 - React Router
 - Redux
 
-[Back To The Top](#fast-react-pizza)
+[Back To The Top](#fast-react-pizza-co.)
 
 ---
 
@@ -47,7 +47,7 @@ You can view the project live here:
 To start the project, it is necessary to download the files from the github repository and after that run this commands:
 <br>`'npm i'` <br> `'npm run dev'`
 
-[Back To The Top](#fast-react-pizza)
+[Back To The Top](#fast-react-pizza-co.)
 
 ---
 
@@ -55,4 +55,4 @@ To start the project, it is necessary to download the files from the github repo
 
 I made this project with the help of Jonas Schmedtmann in the React course: [React course](https://www.udemy.com/course/the-ultimate-react-course/)
 
-[Back To The Top](#fast-react-pizza)
+[Back To The Top](#fast-react-pizza-co.)
